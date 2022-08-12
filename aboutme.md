@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Pentester / CTF Player / Youtuber 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi nombre es Fuzz3d, estoy estudiando ingenieria en ciberseguridad en Chile, creo contenido para Youtube relacionado con Ciberseguridad y Hacking Ético 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Un poco de mi 
 
-What else do you need?
+Desde pequeño he sido curioso con las computadoras, empecé jugando videojuegos desde muy pequeño, recuerdo que el primero fue Operation 7, luego me fui interesando en el tema de tecnología en general; teclados, mouses, PCs, en fin, todo lo relacionado con el mundo gamer. Y finalmente encontré el hacking.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Mi primer sistema operativo fue Kali Linux, ahí me dedicaba a probar herramientas para enviar mensajes anónimos, correos, escanear redes Wi-Fi, lo típico, y actulmente puedo estudiar algo relacionado con el área de la Ciberseguridad. 
