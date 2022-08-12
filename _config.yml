@@ -22,10 +22,8 @@ author: Fuzz3d
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+    - Mi Github: "https://github.com/Fuzz3d"
+    
 ################
 # --- Logo --- #
 ################
@@ -53,7 +51,7 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: Fuzz3d
   twitter: fuzz3d_
-  youtube: c/Fuzz3d
+  youtube: https://www.youtube.com/channel/UC3oEJSnAX9Zlqj19fLN8x9A
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -104,7 +102,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
