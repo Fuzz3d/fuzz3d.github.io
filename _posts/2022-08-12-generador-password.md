@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generador de contraseñas
-gh-repo: Fuzz3d/password-generator
+gh-repo: Fuzz3d/Password-Generator
 gh-badge: [star, fork, follow]
 tags: [Python, Script, Password]
 comments: true
