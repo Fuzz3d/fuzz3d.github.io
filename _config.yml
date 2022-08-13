@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Blog
+title: Fuzz3d's Blog
 
 # Your name to show in the footer
 author: Fuzz3d
@@ -121,7 +121,7 @@ navbar-var-length: false
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#FFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
