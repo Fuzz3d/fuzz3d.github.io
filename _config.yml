@@ -195,6 +195,14 @@ footer-hover-col: "#0085A1"
 #  theme: github-light # Utterances theme
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
+<script src="https://utteranc.es/client.js"
+        repo="Fuzz3d / fuzz3d.github.io"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection. 
 # Using Staticman requires advanced knowledge, please consult 
