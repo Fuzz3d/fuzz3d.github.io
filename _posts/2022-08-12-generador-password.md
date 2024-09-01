@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Generador de contraseñas
-gh-repo: Fuzz3d/Password-Generator
-gh-badge: [star, fork, follow]
-tags: [Python, Script, Password]
-comments: true
+title: Password Generator
+author: Fuzz3d
+date: 2022-08-12 
+categories: [Blogging, Tutorial, Herramienta]
+tags: [password, python]
+render_with_liquid: false
 ---
 
 Con este sencillo script de Python puedes crear la cantidad de contraseñas que desees del largo que quieras.
