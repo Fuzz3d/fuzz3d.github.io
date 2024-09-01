@@ -163,6 +163,6 @@ if __name__ == '__main__':
 Este flujo permite escanear puertos de manera eficiente y manejar la interrupción del programa de forma segura.
 
 ### Screenshot
-![screenshot](Shot-2024-08-29-174021.png)
-![screenshot](Shot-2024-08-29-174041.png)
+![screenshot](assets/img/Shot-2024-08-29-174021.png)
+![screenshot](assets/img/Shot-2024-08-29-174041.png)
 
