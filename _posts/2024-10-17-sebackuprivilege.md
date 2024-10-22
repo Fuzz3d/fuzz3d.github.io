@@ -43,7 +43,7 @@ download system
 
 ![alt text](../assets/img/241016_22h09m19s_screenshot.png)
 
-Ahora, podemos extraer los secretos desde el archivo SAM y SYSTEM usando pypykatz, un extractor de contraseñas y otros secretos de la memoria de Windows.
+Ahora, podemos extraer los secretos desde el archivo SAM y SYSTEM usando pypykatz, un extractor de contraseñas y secretos de la memoria de Windows.
 
 ```bash
 pypykatz registry --sam sam system
