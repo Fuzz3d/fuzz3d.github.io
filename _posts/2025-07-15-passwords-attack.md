@@ -6,9 +6,6 @@ categories: [Blogging,]
 tags: [password]
 render_with_liquid: false
 ---
-
-# Passwords Attack PT.1
-
 Esta guía se basa en eludir los principios de la **autenticación**, comprometiendo las contraseñas de los usuarios en sistemas, aplicaciones e incluso métodos de cifrado. 
 
 ### **Autenticación**
