@@ -52,7 +52,7 @@ Hoy en día, la mayoría de los informes, documentación y hojas informativas se
 
 ![alt text](<../assets/img/image copy.png>)
 
-## Decifrar ficheros
+## Descifrar ficheros
 
 Existen muchos tipos de archivos comprimidos. Algunas de las extensiones más comunes son tar, gz, rar, zip, vmdb/vmx, cpt, truecrypt, bitlocker, kdbx, deb, 7z y gzip.
 
