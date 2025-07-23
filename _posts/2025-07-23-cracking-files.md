@@ -1,7 +1,7 @@
 ---
 title: Password Attacks PT.2
 author: Fuzz3d
-date: 2025-07-15 
+date: 2025-07-23
 categories: [Blogging,]
 tags: [password]
 render_with_liquid: false
